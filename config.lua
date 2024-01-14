@@ -22,7 +22,7 @@ Config.BlipName = "Jakiś blip na mapie"
 Config.BlipCoords  = vector3(-1297.898926, -3401.103272, 13.929688)
 Config.BlipDisplay = 4
 Config.BlipSprite  = 486
-Config.BlipScale   = 0.5
+Config.BlipScale   = 1.5
 Config.BlipColor  = 0
 
 Config.Marker = {
