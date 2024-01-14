@@ -7,7 +7,7 @@ lua54		'on'
 author		'ItsWizZard & BigYoo'
 description	'simple basic script for understanding fivem and scripting with lua'
 version		'0.1'
-repository	''
+repository	'https://github.com/IWBStudios/iwb_simple_script'
 discord 	'https://discord.gg/IWBStudios'
 -- auth		''
 
